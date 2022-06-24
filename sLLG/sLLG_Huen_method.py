@@ -4,7 +4,8 @@
 # The effective field consists of : 
 # Uniaxial field, Demag field, and Magnetoelectric field.
 #
-# The parameters are taken from https://doi.org/10.1038/s41598-017-11732-w 
+# The parameters are taken from 
+# https://doi.org/10.1038/s41598-017-11732-w 
 #
 # To solve the sLLG Huen method is used. 
 # Details of the solution method can be found in 
